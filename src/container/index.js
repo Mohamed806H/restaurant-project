@@ -1,0 +1,9 @@
+export { default as Header } from "./Header/Header";
+export { default as About } from "./About/About";
+export { default as SpecialMenu } from "./Menu/SpecialMenu";
+export { default as Chef } from "./Chef/Chef";
+export { default as VidRest } from "./VidRest/VidRest";
+export { default as Laurels } from "./Laurels/Laurels";
+export { default as Gallery } from "./Gallery/Gallery";
+export { default as FindUs } from "./FindUs/FindUs";
+export { default as Footer } from "./Footer/Footer";
